@@ -6,6 +6,8 @@
 }
 #header{
     height: 100vh;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
 .container{
     margin-right: 100px;
