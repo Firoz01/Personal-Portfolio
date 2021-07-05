@@ -75,7 +75,7 @@ p{
     margin-bottom: 150px;
     padding-top: 100px;
 }
-.content-img .big-img{
+.content-img,.big-img{
     width: 100%;
 }
 .content-text .title-1{
